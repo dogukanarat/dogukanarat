@@ -1,8 +1,8 @@
 My Personal Github Profile
 
-I am embedded software engineer in defence industry
+I am embedded software engineer in avionic industry
 
-I am current working on embedded linux frameworks for unmmaned aerial vehicles
+I am current working on rust development
 
 I am currently learning networking
 
