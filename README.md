@@ -6,9 +6,12 @@ I am current working on rust development
 
 I am currently learning networking
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dogukanarat&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dogukanarat&theme=blue-green)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanarat&theme=black)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanarat&theme=blue-green)
+
+
 
 <!--
 **dogukanarat/dogukanarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
