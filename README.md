@@ -2,9 +2,7 @@ My Personal Github Profile
 
 I am embedded software engineer in avionic industry
 
-I am current working on rust development
-
-I am currently learning networking
+I am currently working on rust development and networking
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dogukanarat&theme=blue-green)
 
