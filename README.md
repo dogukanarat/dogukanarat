@@ -1,8 +1,11 @@
 My Personal Github Profile
 
-I am embedded software engineer in avionic industry
+I am embedded software engineer in space industry
 
-I am currently working on rust development and networking
+- 🔭 I’m currently working on embedded software development
+- 🌱 I’m currently learning rust
+- 💬 Ask me about c++, OOP, SOID and microcontrollers
+- 📫 How to reach me: aratdogukan@gmail.com
 
 
 <!--
