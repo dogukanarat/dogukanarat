@@ -4,7 +4,7 @@ I am embedded software engineer in space industry
 
 - 🔭 I’m currently working on embedded software development
 - 🌱 I’m currently learning rust
-- 💬 Ask me about c++, OOP, SOID and microcontrollers
+- 💬 Ask me about c++, OOP, SOLID and microcontrollers
 - 📫 How to reach me: aratdogukan@gmail.com
 
 
